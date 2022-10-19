@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claudioprato and i'am working like DevOps Specialist in the Enterprise Architect team @Dedalus group.
+- 👋 Hi, I’m Claudio Prato and i'am working like DevOps Specialist in the Enterprise Architect team @Dedalus group.
 - 👀 I’m interested in:
     * deployment automation tools
     * build automation tools
