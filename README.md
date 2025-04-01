@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Claudio Prato and i'am working like DevOps Specialist in the Enterprise Architect team @Dedalus group.
+- 👋 Hi, I’m Claudio Prato and i'am working like DevSecOps Specialist in the Enterprise Architect team @Dedalus group.
 - 👀 I’m interested in:
     * deployment automation tools
     * build automation tools
+    * testing automation like Kitchen-CI
     * automatic pipeline and workflow optimization tools
 - 🌱 I’m currently learning some infrastructure as code software tools
 
